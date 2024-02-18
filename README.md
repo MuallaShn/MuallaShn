@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1687996800&v=beta&t=kBalXjsOxtLI4yiKhyCmS6hE8z-40PKWhLzPkqqIzks)
+[![MasterHead](https://thumbs.dreamstime.com/b/software-development-circle-poster-flat-line-icons-programming-language-flyer-application-api-computer-tester-program-develop-169146457.jpg)
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
