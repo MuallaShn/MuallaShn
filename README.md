@@ -1,4 +1,4 @@
-[![MasterHead](https://e7.pngegg.com/pngimages/567/267/png-clipart-types-and-programming-languages-computer-programming-programmer-programming-language-text-computer-thumbnail.png)
+[![MasterHead](https://www.iakademi.com/wp-content/uploads/2021/05/kodlama-yapabilmek-icin-gerekli-programlama-dilleri.png)
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
