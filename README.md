@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aventussoftware.com/wp-content/uploads/2023/06/vaival-application.png)
+[![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
