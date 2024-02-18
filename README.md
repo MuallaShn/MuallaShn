@@ -1,4 +1,4 @@
-[![MasterHead](https://ideacdn.net/idea/ct/82/myassets/blogs/programlama-dilleri-betik-diller.jpg?revision=1548267428)
+[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg)
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
