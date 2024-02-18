@@ -1,4 +1,4 @@
-[![MasterHead](https://www.iakademi.com/wp-content/uploads/2021/05/kodlama-yapabilmek-icin-gerekli-programlama-dilleri.png)
+[![MasterHead](https://ideacdn.net/idea/ct/82/myassets/blogs/programlama-dilleri-betik-diller.jpg?revision=1548267428)
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
