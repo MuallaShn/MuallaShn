@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/software-development-circle-poster-flat-line-icons-programming-language-flyer-application-api-computer-tester-program-develop-169146457.jpg)
+[![MasterHead](https://www.aventussoftware.com/wp-content/uploads/2023/06/vaival-application.png)
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
