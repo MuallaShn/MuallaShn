@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,SQLServer**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **muallashn11@gmail.com**
 
