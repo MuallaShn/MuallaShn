@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg" alt="Programming Languages">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 0;">
+  <img src="https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg" alt="Programming Languages" style="max-width: 100%; height: auto; display: block;">
 </div>
 
 
