@@ -1,4 +1,4 @@
-![MasterHead]([https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png](https://www.mycplus.com/ezoimgfmt/cdn.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1))
+![MasterHead]([https://wirelesscs.com/storage/app/public/065ZyxwP8hwvdf7TExqRa8sCy34gYw-metad2hhdOKAmXMtdGhlLWJlc3QtcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtdG8tbGVhcm4tZmlyc3QucG5n-.png])
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
