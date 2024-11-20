@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 0;">
-  <img src="https://cdn.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg" alt="Programming Languages" style="width: 100%; height: auto; display: block;">
+  <img src="https://www.freelancinggig.com/blog/wp-content/uploads/2019/02/Programming-Language-for-startups.jpg" alt="Programming Languages" style="width: 100%; height: auto; display: block;">
 </div>
 
 
