@@ -1,4 +1,4 @@
-![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
+![MasterHead](https://wirelesscs.com/storage/app/public/065ZyxwP8hwvdf7TExqRa8sCy34gYw-metad2hhdOKAmXMtdGhlLWJlc3QtcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtdG8tbGVhcm4tZmlyc3QucG5n-.png)
 
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
