@@ -1,4 +1,4 @@
-![MasterHead](https://wirelesscs.com/storage/app/public/065ZyxwP8hwvdf7TExqRa8sCy34gYw-metad2hhdOKAmXMtdGhlLWJlc3QtcHJvZ3JhbW1pbmctbGFuZ3VhZ2UtdG8tbGVhcm4tZmlyc3QucG5n-.png)
+![MasterHead](https://cdn.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
