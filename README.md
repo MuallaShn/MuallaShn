@@ -1,4 +1,6 @@
-<img src="https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg" alt="Programming Languages" style="width: auto; height: auto; max-width: 100%; max-height: 100vh; display: block;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 0; background-image: url('https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg'); background-size: cover; background-position: center;">
+  <img src="https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg" alt="Programming Languages" style="max-width: 80%; height: auto; display: block;">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
