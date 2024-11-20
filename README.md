@@ -1,4 +1,7 @@
-![MasterHead](https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://www.userbrain.com/blog/wp-content/uploads/2017/08/programming-language.jpg" alt="Programming Languages">
+</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
