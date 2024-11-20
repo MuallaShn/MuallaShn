@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg)
+![MasterHead](https://www.freelancinggig.com/blog/wp-content/uploads/2019/02/Programming-Language-for-startups.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
