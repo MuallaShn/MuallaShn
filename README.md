@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Mualla Şahin</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
+<h3 align="center">I'm junior software developer</h3>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter, React**
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,Python**
 
 - 📫 How to reach me **muallashn11@gmail.com**
 
